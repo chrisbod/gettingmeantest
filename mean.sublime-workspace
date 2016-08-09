@@ -1,0 +1,555 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"contine",
+				"continentName"
+			],
+			[
+				"continents",
+				"continentsArray"
+			],
+			[
+				"cont",
+				"continentsArray"
+			],
+			[
+				"re",
+				"regionName"
+			],
+			[
+				"lat",
+				"latlngs"
+			],
+			[
+				"fit",
+				"fitLatLngBounds"
+			],
+			[
+				"GMA",
+				"GMapsHelper"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"tr",
+				"triggerEvent"
+			],
+			[
+				"src",
+				"sourceElement"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"drop",
+				"drop-target"
+			],
+			[
+				"cloned",
+				"clonedNode"
+			],
+			[
+				"touchstart",
+				"touchstartPosition"
+			],
+			[
+				"touc",
+				"touchstartPosition"
+			],
+			[
+				"new",
+				"newConfig"
+			],
+			[
+				"config",
+				"configObject"
+			],
+			[
+				"init",
+				"initCustomDefs"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"prest",
+				"presetClasses"
+			],
+			[
+				"preset",
+				"presetClasses"
+			],
+			[
+				"class",
+				"classNames"
+			],
+			[
+				"remove",
+				"removeAttribute"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"custom",
+				"customDefs"
+			],
+			[
+				"check",
+				"checkOrientation"
+			],
+			[
+				"watch",
+				"watchedElements"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"xx",
+				"xx-small-width"
+			],
+			[
+				"x-",
+				"x-large-width"
+			],
+			[
+				"se",
+				"setTimeout"
+			],
+			[
+				"custo",
+				"customDefs"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"summr",
+				"summaryHeight"
+			],
+			[
+				"current",
+				"currentHeight"
+			],
+			[
+				"ta",
+				"table-row-group"
+			],
+			[
+				"ic-c",
+				"ic-colgroup"
+			],
+			[
+				"tab",
+				"table-row"
+			],
+			[
+				"sil",
+				"silvermansConfig"
+			],
+			[
+				"first",
+				"firstMMResult"
+			],
+			[
+				"mil",
+				"militaryMartConfig"
+			],
+			[
+				"image",
+				"imageSelector"
+			],
+			[
+				"product",
+				"product-image"
+			],
+			[
+				"att",
+				"attribute"
+			],
+			[
+				"im",
+				"imageUrl"
+			],
+			[
+				"item",
+				"itemSelector"
+			],
+			[
+				"produc",
+				"productUrl"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Christian/Documents/GitHub/getting-MEAN"
+	],
+	"file_history":
+	[
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/weather.html",
+		"/C/Users/Christian/Downloads/all.csv",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/css/style.css",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/json/cliffjumping-videos.json",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/json/malamasbeach-activities.json",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/js/app.js",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/js/controllers/activity-place.js",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/json/cliffjumping.json",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/json/cliffjumping-shouts.json",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/json/cliffjumping-pictures.json",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/lib/ion-gallery/ion-gallery.js",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/lib/ion-gallery/ion-gallery.html",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/css/icons.css",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/js/controllers/categories-location.js",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/index.html",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/fonts/countries.html",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/fonts/countries.css",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/location.html",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/json/countries.json",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/img/icons/activity.svg",
+		"/C/Users/Christian/Desktop/csv.js",
+		"/C/Users/Christian/Desktop/csv.html",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/beach.html",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/json/categories.json",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/activity.html",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/posting.html",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/shout.html",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/img/icons/barbe.svg",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/js/controllers/weather.js",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/js/controllers/location.js",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/js/gmapshelper.js",
+		"/C/Users/Christian/AppData/Local/Microsoft/Windows/INetCache/IE/CF6TYM2S/all[1].csv",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/css/iconic.css",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/suggest.html",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/volleyball.html",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/search.html",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/img/icons/europe.svg",
+		"/C/Users/Christian/Documents/So there you have it, I came back to Napa last nig",
+		"/C/Users/Christian/Documents/GitHub/Freedom/tests/src/freedom.js",
+		"/C/Users/Christian/Documents/GitHub/Freedom/tests/spec/freedom.spec.js",
+		"/C/Users/Christian/Documents/GitHub/Freedom/tests/SpecRunner.html",
+		"/C/Users/Christian/Documents/GitHub/micronic/tests/spec/micronic.spec.js",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/img/icons/terrain.svg",
+		"/C/Users/Christian/Documents/GitHub/Freedom/Freedom/www/img/icons/location.svg",
+		"/C/Users/Christian/Documents/GitHub/MasterDetail/MasterDetail/www/js/app.js",
+		"/C/Users/Christian/Documents/GitHub/MasterDetail/MasterDetail/www/js/controllers.js",
+		"/C/Users/Christian/Desktop/southward",
+		"/C/Users/Christian/Documents/GitHub/micronic/tests/spec/micronic.input.mcss",
+		"/C/Users/Christian/Documents/GitHub/micronic/tests/spec/micronic.spec.css",
+		"/C/Users/Christian/Documents/GitHub/micronic/tests/src/mi-bind.css",
+		"/C/Users/Christian/Documents/GitHub/micronic/dev/table.html",
+		"/C/Users/Christian/Documents/GitHub/micronic/tests/spec/micronic.output.css",
+		"/C/Users/Christian/Documents/GitHub/micronic/tests/conversion.html",
+		"/C/Users/Christian/Documents/GitHub/micronic/tests/test2.css",
+		"/C/Users/Christian/Documents/GitHub/micronic/tests/test.css",
+		"/C/Users/Christian/Documents/GitHub/MasterDetail/MasterDetail/www/ic-thiughts.txt",
+		"/C/Users/Christian/Documents/GitHub/micronic/tests/fixtures/init.html",
+		"/C/Users/Christian/Documents/GitHub/MasterDetail/MasterDetail/www/micro.html",
+		"/C/Users/Christian/Documents/GitHub/MasterDetail/MasterDetail/www/css/style.css",
+		"/C/Users/Christian/Documents/GitHub/MasterDetail/MasterDetail/www/templates/contact.html",
+		"/C/Users/Christian/Documents/GitHub/multisearch/tests/stubs/militarymart.html",
+		"/C/Users/Christian/Documents/GitHub/multisearch/tests/src/searchscraper.js"
+	],
+	"find":
+	{
+		"height": 60.0
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+			"C:\\Users\\Christian\\Documents\\GitHub\\micronic"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ionGalleryRow",
+			"action",
+			"videos",
+			"Activities",
+			"()\">",
+			"photo",
+			"strong",
+			"logo",
+			"<[^>]+>",
+			".image",
+			"({",
+			"LowerCAse",
+			"http",
+			"Americas",
+			" href=\"volleyball.html\"",
+			"});\n",
+			"cycling",
+			"</span>\n  </a>",
+			"\"></i>\n    <span class=\"label\">",
+			"<a class=\"item item-icon-left\" href=\"volleyball.html\">\n    <i class=\"icon ",
+			".",
+			"#006DF0",
+			"F0",
+			".uniform",
+			"diving",
+			"textare",
+			":after",
+			"media",
+			"file",
+			"IT",
+			"full",
+			"{\n    ",
+			" </a>",
+			"\"></i>",
+			"<a class=\"item item-icon-left\" href=\"#\">\n    <i class=\"icon ",
+			"micronic.js",
+			".effect",
+			"trigger",
+			"triggerEvent",
+			"\"drop",
+			"triggerEvent",
+			"triggerEVent",
+			"console.",
+			"triggerEvent",
+			"TouchDrag.",
+			"TouchDrag",
+			";\n",
+			"dnd_droppable",
+			"dnd-droppable",
+			"trigger",
+			"clonedNode",
+			"bind",
+			"micronic",
+			"0",
+			";\n",
+			"console.log",
+			"watch",
+			"getCustomDefinitions",
+			"handleEvent",
+			"watch",
+			"checkWatches",
+			"cleanElement",
+			"getMicronicClasses",
+			"watch",
+			"checkWatches",
+			"determineClassBySize",
+			"element",
+			"0px",
+			",'')+\")\");\n",
+			"classNames",
+			"classes",
+			"\n	",
+			"type",
+			"flash",
+			">\n",
+			" <span>",
+			"-micronic\"",
+			" class=\"item item-iconic\"",
+			"\">\n",
+			" class=\"tab-title\"",
+			" class=\"tab-item\"",
+			"firstElementChild",
+			" href=\"#\"",
+			"cell",
+			"</row",
+			"<row class=\"",
+			"reflective",
+			")\n",
+			"firstResult",
+			"Jacket",
+			"].",
+			"RAF",
+			"()\n",
+			"();\n",
+			".scrape"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"South America",
+			"",
+			".",
+			"#33cd5f",
+			"{\n background-image: url(../img/icons/",
+			"}",
+			"{",
+			".",
+			"drop-target",
+			"draggingNode",
+			"control",
+			"mi-bind",
+			"micronic",
+			" <span class=\"label\">",
+			" micronic\"",
+			" class=\"item-micronic\"",
+			"",
+			" class=\"tab-title\"",
+			"",
+			"</a",
+			"<a class=\"row ",
+			"<a class=\"row",
+			"firstMMResult",
+			".search"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 60.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mean.sublime-project",
+	"replace":
+	{
+		"height": 116.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 425.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
